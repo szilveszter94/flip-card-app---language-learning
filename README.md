@@ -1,2 +1,2 @@
 # flip-card-app---language-learning
-Nyelvtanuláshoz használható app, a kártya előlapján idegen szó található, a hátlapján az általad ismert nyelvű megfelelője.
+Nyelvtanuláshoz használható app, a kártya előlapján idegen szó található, a hátlapján az általad ismert nyelvű megfelelője. Adott időd van rá, hogy kigondold a megfejtést, utána a kártya átfordul, látni fogod, hogy helyes-e amit gondoltál, ha igen akkor zöld gomb, ha nem akkor piros. Ha zöld gombot nyomsz, az a szó már többé nem jelenik meg, ha pirosat, akkor az a szó még vissza fog térni, így egy idő után az összes szó el fog tűnni a tanulandó listáról.
